@@ -1,0 +1,119 @@
+[
+  {
+    "id": "658",
+    "name": "桜羽エマ",
+    "displayName": "櫻羽艾瑪",
+    "description": "樂觀開朗、關心他人的少女；怕寂寞、渴望與人親近，也十分害怕被他人討厭。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/658.webp"
+  },
+  {
+    "id": "659",
+    "name": "二階堂ヒロ",
+    "displayName": "二階堂希羅",
+    "description": "成績優秀、認真而有禮的少女，正義感強烈，對自己認為不正確的事毫不寬容。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/659.webp"
+  },
+  {
+    "id": "660",
+    "name": "夏目アンアン",
+    "displayName": "夏目安安",
+    "description": "習慣閉門不出的少女，幾乎不開口說話，主要透過素描本與人筆談，筆談時自稱「吾輩」。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/660.jpg"
+  },
+  {
+    "id": "661",
+    "name": "城ケ崎ノア",
+    "displayName": "城崎諾亞",
+    "description": "氣質悠然的街頭藝術家，作品受到世界各地喜愛，但人們並不知道創作者就是她。",
+    "magic": "液體操作",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/661.jpg"
+  },
+  {
+    "id": "662",
+    "name": "蓮見レイア",
+    "displayName": "蓮見蕾亞",
+    "description": "以中性外貌受到女性觀眾歡迎的知名演員；努力而有責任感，總想站在前方保護周遭的人。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/662.jpg"
+  },
+  {
+    "id": "663",
+    "name": "佐伯ミリア",
+    "displayName": "佐伯米莉亞",
+    "description": "外表亮眼、帶有辣妹風格，實際上卻安靜而容易不安；雖然不太靈巧，心地十分溫柔。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/663.webp"
+  },
+  {
+    "id": "664",
+    "name": "宝生マーゴ",
+    "displayName": "寶生瑪歌",
+    "description": "待人親切、善於交際的少女，總以從容的態度應對他人，卻不輕易對人付出信任。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/664.jpg"
+  },
+  {
+    "id": "665",
+    "name": "黒部ナノカ",
+    "displayName": "黑部奈乃香",
+    "description": "話不多、態度疏離的少女，比其他囚人更熟悉牢屋的規則與構造，喜歡獨自行動。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/665.webp"
+  },
+  {
+    "id": "666",
+    "name": "紫藤アリサ",
+    "displayName": "紫藤亞里沙",
+    "description": "說話直接、帶有威嚇感的離家少女，脾氣火爆而容易起衝突，對許多事物都抱有不滿。",
+    "magic": "發火",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/666.jpg"
+  },
+  {
+    "id": "667",
+    "name": "橘シェリー",
+    "displayName": "橘雪莉",
+    "description": "自稱名偵探，笑容親切而個性奔放；遇到有趣的事會立即行動，對在意的事充滿好奇。",
+    "magic": "怪力",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/667.jpg"
+  },
+  {
+    "id": "668",
+    "name": "遠野ハンナ",
+    "displayName": "遠野漢娜",
+    "description": "以大小姐式的言談舉止示人，總是維持高傲而不食人間煙火的姿態。",
+    "magic": "浮遊",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/668.jpg"
+  },
+  {
+    "id": "669",
+    "name": "沢渡ココ",
+    "displayName": "澤渡可可",
+    "description": "從事直播活動的少女，直播時表現得積極開朗，私下說話尖銳，心情起伏也很明顯。",
+    "magic": "未公開",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/669.jpg"
+  },
+  {
+    "id": "670",
+    "name": "氷上メルル",
+    "displayName": "冰上梅露露",
+    "description": "非常膽小而愛操心的少女，對他人感受敏銳，常躲在一旁關注別人，也容易緊張落淚。",
+    "magic": "治癒",
+    "source": "https://manosaba.com/#character",
+    "image": "./assets/characters/670.jpg"
+  }
+]
